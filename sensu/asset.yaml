@@ -4,5 +4,5 @@ metadata:
   name: sensu-output-mutator
   namespace: default
 spec:
-  sha512: faaefed6294da0a18bec94b573a97377b7625fa8bc1bfc39b5177af0c519300c26dc7b5dc6400876795694e385a3eb1f8508230edb4baaf33c9b49fc7ba40348
-  url: https://github.com/DENICeG/sensu-output-mutator/releases/download/v0.0.2/sensu-output-mutator_v0.0.2_linux_amd64.tar.gz
+  sha512: 2f7cbfa9ae7e12b9dccb33759581698a59088d855367a1a5028e0b82ab68662d3b8fb897e75638027ef6ebec307d788e033c4c1a7c415a6fccd9a2f4505d2670
+  url: https://github.com/DENICeG/sensu-output-mutator/releases/download/v0.0.3/sensu-output-mutator_v0.0.3_linux_amd64.tar.gz
