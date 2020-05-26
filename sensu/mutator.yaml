@@ -1,9 +1,0 @@
-api_version: core/v2
-type: Mutator
-metadata:
-  name: output-mutator
-  namespace: default
-spec:
-  command: sensu-output-mutator
-  runtime_assets:
-  - sensu-output-mutator
