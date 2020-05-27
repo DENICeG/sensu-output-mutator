@@ -7,7 +7,7 @@ else
   TAG=$1
 fi
 
-go build -o bin/sensu-output-mutator cmd/main.go
+go build -o bin/sensu-output-mutator cmd/sensu-output-mutator/main.go
 tar czf sensu-output-mutator_${TAG}_linux_amd64.tar.gz bin/
 
 sha512sum sensu-output-mutator_${TAG}_linux_amd64.tar.gz > sensu-output-mutator_${TAG}_sha512_checksums.txt
