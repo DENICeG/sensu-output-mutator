@@ -2,7 +2,6 @@ type: Asset
 api_version: core/v2
 metadata:
   name: sensu-output-mutator
-  namespace: default
 spec:
-  sha512: 42b658e744f246a64b6c93ecec07c3e2bfe983427bf29ae9d9c8891a4db7ae51c0661a35adc7d0b5e28560a2f8eeb5ca724658b1c57b5ee8880abf466e497867
-  url: https://github.com/DENICeG/sensu-output-mutator/releases/download/v1.1.0/sensu-output-mutator_v1.1.0_linux_amd64.tar.gz
+  sha512: 8263ca0934189fcb62c0d36454a2b7ba8fc5d0c0242c01bbeec4cd9a26a08080f2850ef406dbb429fdb17d112ffe89744328df02a8933606adb05f1dddaf2830
+  url: https://github.com/DENICeG/sensu-output-mutator/releases/download/v1.1.1/sensu-output-mutator_v1.1.1_linux_amd64.tar.gz
