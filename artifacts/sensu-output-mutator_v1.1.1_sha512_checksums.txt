@@ -1,1 +1,0 @@
-8263ca0934189fcb62c0d36454a2b7ba8fc5d0c0242c01bbeec4cd9a26a08080f2850ef406dbb429fdb17d112ffe89744328df02a8933606adb05f1dddaf2830  sensu-output-mutator_v1.1.1_linux_amd64.tar.gz
